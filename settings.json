@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ANSHSMP57plzjoin.aternos.me:24812",
+    "ip": "ANSHSMP57plzjoin.aternos.me",
     "port": 24812,
     "version": "1.21.1"
   },
